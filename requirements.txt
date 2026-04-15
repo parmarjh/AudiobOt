@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+PyPDF2
+python-docx
+requests
+beautifulsoup4
+wikipedia-api
+faiss-cpu
+numpy
+sentence-transformers
+transformers
+torch
